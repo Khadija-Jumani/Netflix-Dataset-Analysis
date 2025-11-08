@@ -1,0 +1,3 @@
+git add notebooks/netflix_eda.ipynb outputs/*.png
+git commit -m "Add Netflix EDA notebook and charts"
+git push
